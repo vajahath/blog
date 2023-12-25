@@ -1,5 +1,28 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Blog'
+title = "Frequently Missed"
 theme = 'paper'
 
+[params]
+  twitter = 'vajahath7'
+  github = 'vajahath'
+  instagram = 'vajahath_'
+  threads = 'vajahath_'
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'vajuoff.1@gmail.com'                 # gravatar email or image url
+  name = "Vajahath Ahmed"
+  bio = "Personal Blog"
+
+[params.giscus]
+  repo = 'vajahath/blog'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOK9mMRQ'
+  category = 'Comments'
+  categoryId = 'DIC_kwDOK9mMRc4Cb_h3'
+  mapping = 'pathname'
+  theme = 'light'
+  strict="0"
+  loading="lazy"
+  reactionsEnabled="1"
+  inputPosition="top"
