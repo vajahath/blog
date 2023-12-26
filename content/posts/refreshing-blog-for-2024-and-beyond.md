@@ -5,8 +5,6 @@ draft = true
 description = 'spf13-vim is a cross platform distribution of vim plugins and resources for Vim.'
 tags = ['updates']
 author = "Vajahath Ahmed"
-subtitle = "Refreshing Blog for 2024 and Beyond"
-
 +++
 
 ## Introduction
